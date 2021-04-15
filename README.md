@@ -8,6 +8,8 @@
 
 <br>
 
+### Availability + Terms () 🗿
+
 - [x] ***Works with all devices***
 
 - [x] **Free to use with some terms**
