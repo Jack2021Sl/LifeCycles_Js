@@ -1,6 +1,6 @@
-# LifeCycles_Js🥀🏅
+## LifeCycles_Js 🥀🏅
 <br>
-## About ? 🗿
+### About? 🗿
 <br>
 **Awesome Js framework/library!**
 
